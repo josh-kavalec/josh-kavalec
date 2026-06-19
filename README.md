@@ -5,15 +5,15 @@ Cybersecurity Student | CompTIA A+, Network+, & Security+ | ITIL 4 Foundations
 I am a Cybersecurity Student at Colorado State University Global pursuing a career is cybersecurity operations, threat detection and incident response. 
 
 ## Projects
-### Project 1
+### Active Directory
 
-### Project 2
+### Windows Server
 
-### Project 3
+### Splunk
 
-### Project 4
+### Wireshark
 
-### Project 5
+### Vulnerability Scanning with Nessus
 
 ## Certifications
 - CompTIA Security+
@@ -24,6 +24,8 @@ I am a Cybersecurity Student at Colorado State University Global pursuing a care
 ## Education
 
 ## Contact
-LinkedIn: (Link)
+LinkedIn: www.linkedin.com/in/josh-kavalec-4bb723247
+
+
 
 Github: (Link)
