@@ -22,10 +22,8 @@ I am a Cybersecurity Student at Colorado State University Global pursuing a care
 - ITIL 4 Foundations
 
 ## Education
+### Colorado State University Global
+- Expected Graduation: March 2027
 
-## Contact
-LinkedIn: www.linkedin.com/in/josh-kavalec-4bb723247
-
-
-
-Github: (Link)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/josh-kavalec-4bb723247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jkavalec30@gmail.com) 
