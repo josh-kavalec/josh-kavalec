@@ -1,16 +1,12 @@
-## Hi there 👋 My name is josh kavalec
+## Josh Kavalec
+Cybersecurity Student | CompTIA A+, Network+, & Security+ | ITIL 4 Foundations
 
-<!--
-**josh-kavalec/josh-kavalec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Cybersecurity Student at Colorado State University Global pursuing a career is cybersecurity operations, threat detection and incident response. 
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- ITIL 4 Foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...jkk
-- ⚡ Fun fact: ...
--->
