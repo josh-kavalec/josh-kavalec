@@ -27,5 +27,5 @@ I am a Cybersecurity Student at Colorado State University Global pursuing a care
 - Expected Graduation: March 2027
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/josh-kavalec-4bb723247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jkavalec30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/josh-kavalec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jkavalec30@gmail.com)
 
