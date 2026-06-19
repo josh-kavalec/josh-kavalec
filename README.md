@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is josh kavalec
 
 <!--
 **josh-kavalec/josh-kavalec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
