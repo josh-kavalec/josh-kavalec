@@ -8,14 +8,6 @@ I am a Cybersecurity Student at Colorado State University Global pursuing a care
 ## Projects
 ### Active Directory
 
-### Windows Server
-
-### Splunk
-
-### Wireshark
-
-### Vulnerability Scanning with Nessus
-
 ## Certifications
 - CompTIA Security+
 - CompTIA Network+
