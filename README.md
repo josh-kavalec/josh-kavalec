@@ -6,7 +6,7 @@ I am a Cybersecurity Student at Colorado State University Global pursuing a care
 * 🌍  I'm based in Colorado
 
 ## Projects
-### [Active Directory](https://github.com/josh-kavalec/ActiveDirectoryLab/blob/main/README.md)
+- [Active Directory](https://github.com/josh-kavalec/ActiveDirectoryLab/blob/main/README.md)
 
 ## Certifications
 - CompTIA Security+
