@@ -9,10 +9,10 @@ I am a Cybersecurity Student at Colorado State University Global pursuing a care
 - [Active Directory](https://github.com/josh-kavalec/ActiveDirectoryLab/blob/main/README.md)
 
 ## Certifications
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- ITIL 4 Foundations
+- ![Security+](https://img.shields.io/badge/CompTIA-Security+-red)
+- ![Network+](https://img.shields.io/badge/CompTIA-Network+-blue)
+- ![A+](https://img.shields.io/badge/CompTIA-A+-green)
+- ![ITIL4](https://img.shields.io/badge/ITIL-4-purple)
 
 ## Education
 ### Colorado State University Global
